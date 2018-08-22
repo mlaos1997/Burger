@@ -14,7 +14,7 @@ Prerequisites
 To run this program first run the following command: 
 'npm i express body-parser method-override express-handlebars nodemon'
 
-Built With
+Built With:
 
 MySQL - Database
 
@@ -24,7 +24,7 @@ HandleBars - Templating Engine
 
 Node.js - Open source server environment
 
-Authors
 
+Authors:
 Marcelo Laos
 
