@@ -15,8 +15,11 @@ To run this program first run the following command:
 
 Built With
 MySQL - Database
+
 Express.js - Backend Framework
+
 HandleBars - Templating Engine 
+
 Node.js - Open source server environment
 
 Authors
